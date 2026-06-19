@@ -72,7 +72,7 @@ The summary log got the job done, but a running log built as the analysis progre
 The VLOOKUP step took longer than it should have. That friction is actually what pushed me to start learning Power Query, which handles data connections a lot more efficiently than manual lookups across multiple files.
 
 ### Push the findings one level deeper
-The 4 findings were solid for a 3 hour window, but each one has more to it. The late delivery and bad review connection especially deserves a closer look, like which regions or sellers are driving it most.
+The 4 findings were solid for a 5 hour window, but each one has more to it. The late delivery and bad review connection especially deserves a closer look, like which regions or sellers are driving it most.
 
 ### Keep applying this to real datasets
 The Olist dataset was a big step up from GameZone in terms of complexity and business relevance. The plan is to keep working with real world data, including my sister's small business, to keep building that instinct for what matters and what doesn't.
