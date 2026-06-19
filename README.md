@@ -49,7 +49,7 @@ Pivot tables were the main tool for summarizing revenue and order volume by mont
 A [summary insights log](https://1drv.ms/x/c/8b165763c3e5efed/IQDabUpxAcQnQqGxFOg9kfDfAUMmlSSu2k0wQaQ7njd64h0?e=eBGwFJ) was created to capture the key findings. A full detailed log wasn't possible within the time limit, but the priority was making sure the output was usable and the findings were clear.
 
 ## :collision: Key Insights 
-The full breakdown of these findings is documented in a [one-page write-up](https://1drv.ms/w/c/8b165763c3e5efed/IQCcMO7EsaUFTpscSN7rhFTCAV11ViwhuodfLNnEq2o2kJY?e=sfzIMi) included in this repository.
+The full breakdown of these findings is documented in a [write-up](https://1drv.ms/w/c/8b165763c3e5efed/IQCcMO7EsaUFTpscSN7rhFTCAV11ViwhuodfLNnEq2o2kJY?e=sfzIMi) included in this repository.
 
 ## :sparkles: Reflection
 The biggest test of this project was whether the habits from the GameZone project would actually hold up under time pressure.
