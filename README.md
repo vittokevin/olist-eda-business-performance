@@ -1,7 +1,7 @@
 # 🛒 Olist E-Commerce — Business Performance Analysis
 
 ## Project Overview :exclamation::exclamation:
-After going through Christine Jiang's EDA framework on the GameZone dataset, this was the first real test of whether that process actually stuck. No tutorial to follow, no guided steps, just a dataset and a clock.
+After going through Christine Jiang's EDA framework on the [GameZone dataset](https://github.com/vittokevin/gamezone-sales-trends-eda), this was the first real test of whether that process actually stuck. No tutorial to follow, no guided steps, just a dataset and a clock.
 
 The challenge was simple: given 5 files from the Olist dataset, a real Brazilian e-commerce platform, figure out what the data is saying and surface business performance insights within 5 hours. The goal was to stay focused, avoid going down rabbit holes, and come out with findings that actually mean something to the business, specifically operations and sales.
 
